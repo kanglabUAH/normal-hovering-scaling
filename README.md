@@ -9,7 +9,7 @@
 - `scaling_analysis_final.ipynb`: A Jupyter Lab R script to produce the results shown in this study
 - `HoverScaling_Bio_ESM_DataS1.csv`: Data file (also available as a supplementary material)
 - `phyloT_complete_renamed.nwk`: phylogenetic tree file
-
+- `env_normalhoveringscaling.yml`: a Conda environment file for the Jupyter Lab R script
 
 
 
