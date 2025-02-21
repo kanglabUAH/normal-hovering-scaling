@@ -5,7 +5,7 @@
 1. Department of Mechanical and Aerospace Engineering, University of Alabama in Huntsville, Huntsville, Alabama 35899, United States of America
 2. Department of Mechanical Engineering and Robotics, Shinshu University, Ueda, Nagano 3868567, Japan
 
-doi: [https://doi.org/10.1242/bio.061932]([https://duckduckgo.com](https://doi.org/10.1242/bio.061932))
+doi: [https://doi.org/10.1242/bio.061932](https://doi.org/10.1242/bio.061932)
 
 ### Files:
 - `scaling_analysis_final.ipynb`: A Jupyter Lab R script to produce the results shown in this study
